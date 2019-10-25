@@ -1,0 +1,11 @@
+# Basic options
+title: Integration of clinical, immunological and Omic datasets from Tuberculosis patients to provide new insight into the drivers of TB disease and correlates of protection
+author: Javan Okendo
+email: javanokendo@gmail.com
+description: Wonderful site
+twitter_username: Javan Okendo
+github_username: okendoj
+
+#Build settings
+markdown: kramdown
+theme: minima
